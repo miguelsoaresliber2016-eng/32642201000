@@ -4,7 +4,7 @@ local RunService = game:GetService("RunService")
 local KEY_CORRETA = "FF4xMlK"
 
 -- CONFIG
-local alturaMaxima = 21
+local alturaMaxima = 34
 local velocidade = 17
 
 -- ESTADOS
