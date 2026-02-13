@@ -1,7 +1,7 @@
 local player = game.Players.LocalPlayer
 local RunService = game:GetService("RunService")
 
-local KEY_CORRETA = "FF4xMlK"
+local KEY_CORRETA = "123"
 
 -- CONFIG
 local alturaMaxima = 17
