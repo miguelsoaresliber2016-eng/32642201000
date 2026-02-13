@@ -5,7 +5,7 @@ local KEY_CORRETA = "FF4xMlK"
 
 -- CONFIG
 local alturaMaxima = 12
-local velocidade = 4
+local velocidade = 13
 
 -- ESTADOS
 local ativo = false
