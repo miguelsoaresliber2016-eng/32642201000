@@ -5,7 +5,7 @@ local KEY_CORRETA = "FF4"
 local ADM_KEY = "Qw12As"
 
 local antiLagAtivo = false
-local threshold = 3
+local threshold = 16
 local lastCF
 local lastVel
 local stopFlag = false
