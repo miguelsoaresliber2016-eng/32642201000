@@ -5,7 +5,7 @@ local KEY_CORRETA = "FF4"
 local ADM_KEY = "Qw12As"
 
 local antiLagAtivo = false
-local threshold = 2
+local threshold = 1
 local lastCF
 local lastVel
 local stopFlag = false
@@ -364,7 +364,7 @@ local function criarKeyGUI(key, isAdm)
     Instance.new("UICorner", frame).CornerRadius = UDim.new(0,20)
 
     local stroke = Instance.new("UIStroke")
-    stroke.Thickness = 0.5
+    stroke.Thickness = 0.6
     stroke.Parent = frame
     task.spawn(function()
         while keyGui.Parent do
